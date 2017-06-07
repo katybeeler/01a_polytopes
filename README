@@ -1,0 +1,16 @@
+The distinct combinatorial types for each equivalence class of (0,1,a)-polytopes were found with the appropriately adjusted code in find.sage. They have been stored by their vertices-in-facet descriptions according to number of vertices. The folders correspond to the following a values.
+
+012_1polys: a = 2.1
+012_4polys: a = 2.4
+012_5polys: a = 2.5
+012_7polys: a = 2.7
+012polys:   a = 2
+013_1polys: a = 3.1
+013_2polys: a = 3.2
+013polys:   a = 3
+014polys:   a = 4
+irr1:		a = (1/18*sqrt(23)*sqrt(3)+1/2)^(1/3)+1/3/(1/18*sqrt(23)*sqrt(3)+1/2)^(1/3)+1
+irr2:		a = 1/2*sqrt(5) + 3/2
+irr3:		a = (1/18*sqrt(31)*sqrt(3)+47/54)^(1/3)+7/9/(1/18*sqrt(31)*sqrt(3)+47/54)^(1/3)+4/3
+irr4:		a = sqrt(2)+2
+
